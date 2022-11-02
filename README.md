@@ -23,8 +23,7 @@
 
 6.Import login.sql file
 
-7.Run the url in browser http://localhost:9000/login.php
-
+7.Run the url in browser http://localhost/login-otp/login.php#
 
 
 
